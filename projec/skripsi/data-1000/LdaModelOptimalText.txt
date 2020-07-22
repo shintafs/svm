@@ -1,0 +1,1 @@
+[(0, '0.076*"menang" + 0.033*"dprd" + 0.032*"sadar" + 0.029*"korban" + 0.029*"langgar" + 0.027*"adil" + 0.027*"anggota" + 0.027*"betah" + 0.026*"tetap" + 0.024*"pdip-mega-bg"'), (1, '0.054*"menang" + 0.032*"curang" + 0.032*"sesuai" + 0.031*"sulit" + 0.030*"bingung" + 0.029*"koruptor" + 0.027*"utang" + 0.026*"syariah" + 0.026*"bunga" + 0.023*"sadar"')]

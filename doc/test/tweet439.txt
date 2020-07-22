@@ -1,0 +1,1 @@
+RAM kepenuhan or app-nya emang corrupt. Coba deh force stop dari setting - aplikasi, lalu buka lagi
